@@ -1,0 +1,22 @@
+{
+  "name": "dmiconv",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "install": "node elevate.js node install.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.13.4",
+    "@types/temp": "^0.8.34",
+    "@types/winreg": "^1.2.30",
+    "dialog": "^0.3.1",
+    "native-msg-box": "^0.1.6",
+    "png-itxt": "^2.0.0",
+    "sudo-prompt": "^9.2.1",
+    "temp": "^0.9.1",
+    "winreg": "^1.2.4"
+  }
+}
